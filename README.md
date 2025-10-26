@@ -59,20 +59,20 @@ This project demonstrates a **C# console application** to manage:
 
 ## ⚙️ Workflow
 <div style="background-color:#e8fdf5; padding:12px; border-radius:8px;">
-1️⃣ **Add Teams:** Register all participating teams and their coach <br>
-2️⃣ **Add Players:** Add players to each team with age and position <br>
-3️⃣ **Record Matches:** Input scores for each match; winner is determined automatically <br>
-4️⃣ **Update Standings:** League calculates points (3 for win, 1 for draw) <br>
-5️⃣ **Display Results:** Show match outcomes and overall league standings <br>
+1️⃣ Add Teams: Register all participating teams and their coach <br>
+2️⃣ Add Players: Add players to each team with age and position <br>
+3️⃣ Record Matches: Input scores for each match; winner is determined automatically <br>
+4️⃣ Update Standings:League calculates points (3 for win, 1 for draw) <br>
+5️⃣ Display Results:Show match outcomes and overall league standings <br>
 </div>
 
 ---
 
 ## ⚙️ Technologies Used
 <div style="background-color:#f0f4f8; padding:12px; border-radius:8px;">
-- **C#** (Console Application)  
-- **.NET Core / .NET 6**  
-- Object-Oriented Programming (OOP)  
+- C#  (Console Application)  <br>
+-  .NET Core / .NET 6 <br>
+- Object-Oriented Programming (OOP)  <br>
 - Classes, Lists, Composition, Encapsulation  
 </div>
 
