@@ -48,10 +48,10 @@ This project demonstrates a **C# console application** to manage:
 
 ## 🧩 Features
 <div style="background-color:#fef4e8; padding:12px; border-radius:8px;">
-- ✅ Register teams and players  
-- ✅ Record matches with scores  
-- ✅ Automatically determine match winners  
-- ✅ Track league points and standings  
+- ✅ Register teams and players  <br>
+- ✅ Record matches with scores  <br>
+- ✅ Automatically determine match winners  <br>
+- ✅ Track league points and standings  <br>
 - ✅ Console interface for easy demonstration  
 </div>
 
